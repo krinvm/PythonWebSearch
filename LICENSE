@@ -1,24 +1,22 @@
-BSD 2-Clause License
+# Copyright (c) 2024 KRINVM
 
-Copyright (c) 2024, krinvm
+# Redistribución y uso en forma de código fuente y binario, con o sin
+# modificación, están permitidos siempre que se cumplan las siguientes condiciones:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+# 1. Las redistribuciones de código fuente deben conservar la nota de copyright
+#    anterior, esta lista de condiciones y la siguiente renuncia de garantía.
+# 2. Las redistribuciones en forma binaria deben reproducir la nota de copyright
+#    anterior, esta lista de condiciones y la siguiente renuncia de garantía en
+#    la documentación y/o otros materiales proporcionados con la distribución.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+# ESTE SOFTWARE SE PROPORCIONA POR LOS TITULARES DEL COPYRIGHT Y COLABORADORES "TAL CUAL"
+# Y CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, LAS
+# GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y APTITUD PARA UN PROPÓSITO PARTICULAR
+# SE DENIEGAN. EN NINGÚN CASO LOS TITULARES DEL COPYRIGHT O COLABORADORES SERÁN
+# RESPONSABLES POR CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL,
+# EJEMPLAR O CONSECUENCIAL (INCLUYENDO, PERO NO LIMITADO A, LA ADQUISICIÓN DE
+# BIENES O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS O BENEFICIOS; O INTERRUPCIÓN
+# COMERCIAL) QUE SURJA DE CUALQUIER FORMA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE
+# HA ADVERTIDO DE LA POSIBILIDAD DE TAL DAÑO.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+# Para obtener más información, por favor visite: hhttps://github.com/krinvm
